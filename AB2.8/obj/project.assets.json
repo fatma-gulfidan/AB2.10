@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Tsbe.CodeCracker/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Tsbe.CodeCracker.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Tsbe.CodeCracker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tsbe.CodeCracker/1.0.0": {
+      "sha512": "HjRa6WZWF9ZJ8D/IDKbWRVan4FGxqwtYMp/CsoV6onLK+XuEXsMlNIR4i5OOYDHE6p670ZC1sjjS+5F6EhFp2w==",
+      "type": "package",
+      "path": "tsbe.codecracker/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net8.0/Tsbe.CodeCracker.dll",
+        "tsbe.codecracker.1.0.0.nupkg.sha512",
+        "tsbe.codecracker.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "TSBE.CodeCracker >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/fatmagulfidan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/AB2.8.csproj",
+      "projectName": "AB2.8",
+      "projectPath": "/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/AB2.8.csproj",
+      "packagesPath": "/Users/fatmagulfidan/.nuget/packages/",
+      "outputPath": "/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/fatmagulfidan/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/Users/fatmagulfidan/Downloads": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "TSBE.CodeCracker": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

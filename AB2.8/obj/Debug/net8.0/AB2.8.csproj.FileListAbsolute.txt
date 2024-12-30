@@ -1,0 +1,36 @@
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.AssemblyInfoInputs.cache
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.AssemblyInfo.cs
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.csproj.CoreCompileInputs.cache
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.sourcelink.json
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/bin/Debug/net8.0/AB2.8
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/bin/Debug/net8.0/AB2.8.deps.json
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/bin/Debug/net8.0/AB2.8.runtimeconfig.json
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/bin/Debug/net8.0/AB2.8.dll
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/bin/Debug/net8.0/AB2.8.pdb
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/bin/Debug/net8.0/Tsbe.CodeCracker.dll
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.csproj.AssemblyReference.cache
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.csproj.Up2Date
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.dll
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/obj/Debug/net8.0/refint/AB2.8.dll
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.pdb
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.genruntimeconfig.cache
+/Users/fatmagulfidan/Desktop/AB2.8/AB2.8/obj/Debug/net8.0/ref/AB2.8.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/bin/Debug/net8.0/AB2.8
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/bin/Debug/net8.0/AB2.8.deps.json
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/bin/Debug/net8.0/AB2.8.runtimeconfig.json
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/bin/Debug/net8.0/AB2.8.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/bin/Debug/net8.0/AB2.8.pdb
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/bin/Debug/net8.0/Tsbe.CodeCracker.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.csproj.AssemblyReference.cache
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.AssemblyInfoInputs.cache
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.AssemblyInfo.cs
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.csproj.CoreCompileInputs.cache
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.sourcelink.json
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.csproj.Up2Date
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/obj/Debug/net8.0/refint/AB2.8.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.pdb
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/obj/Debug/net8.0/AB2.8.genruntimeconfig.cache
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.8/AB2.8/obj/Debug/net8.0/ref/AB2.8.dll
